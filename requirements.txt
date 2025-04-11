@@ -1,0 +1,6 @@
+Django
+nltk
+textblob
+punkt
+language-check
+
